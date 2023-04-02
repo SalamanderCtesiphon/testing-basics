@@ -10,3 +10,4 @@ function capitalize(value) {
 }
 
 module.exports = capitalize
+

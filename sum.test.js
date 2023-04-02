@@ -8,3 +8,4 @@ test('takes a string and returns it with the first letter capitalized', () => {
 test('takes a string and returns it with the first letter capitalized', () => {
   expect(captilize('missiSSippi')).toBe('Mississippi')
 })
+
